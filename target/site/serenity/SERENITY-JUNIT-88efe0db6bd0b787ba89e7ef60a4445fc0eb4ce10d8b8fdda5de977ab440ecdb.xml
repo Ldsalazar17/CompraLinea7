@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Yo como usuario del portal Demo" skipped="0" tests="1" time="27.57" timestamp="2022-01-04 07:02:01"><testcase name="el usuario verifica los detalles del envio del producto Tablet"><error message="Timed out after 10 seconds. Element not found&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: '22LAP5CG0523WW5', ip: '192.168.20.38', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'&#10;Driver info: driver.version: unknown&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: '22LAP5CG0523WW5', ip: '192.168.20.38', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.NoSuchElementException">Timed out after 10 seconds. Element not found
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: '22LAP5CG0523WW5', ip: '192.168.20.38', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: driver.version: unknown
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: '22LAP5CG0523WW5', ip: '192.168.20.38', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: driver.version: unknown</error><system-err>Timed out after 10 seconds. Element not found
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: '22LAP5CG0523WW5', ip: '192.168.20.38', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: driver.version: unknown
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: '22LAP5CG0523WW5', ip: '192.168.20.38', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: driver.version: unknown&#13;
+actions.PagoOnlineProductoActions.validarPagoLinea(PagoOnlineProductoActions.java:15)&#13;
+stepsDefinitions.PagoLineaSteps.queElUsuarioSeEncuentreEnLaSeccionDePago(PagoLineaSteps.java:45)&#13;
+✽.que el usuario se encuentre en la seccion de pago(src/test/resources/features/pagoLinea/pagoLinea.feature:14)&#13;
+</system-err></testcase></testsuite>

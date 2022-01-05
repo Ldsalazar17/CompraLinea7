@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Yo como usuario del portal Demo" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-01-05T16:53:39" hostname="22LAP5CG0523WW5" time="24.032">
+  <properties/>
+  <testcase name="el usuario escoge el metodo de pago Master Credit" classname="Yo como usuario del portal Demo" time="24.032"/>
+  <system-out><![CDATA[11:53:41.044 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+11:53:41.044 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, acceptSslCerts: true, browserName: chrome, goog:chromeOptions: {args: [], extensions: []}, incognito: true, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
+11:53:57.121 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Opening darkroom
+11:53:57.123 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Darkroom processing line starting up
+11:53:57.660 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Send negative for processing for C:\Users\SoporteTI\Documents\JAVA\HU7\CompraEnLinea\target\site\serenity\0204919ac95d4c28b6966a550fe86c2288c93f9ee57385e81d38ed1b136ef228.png
+11:53:58.391 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Send negative for processing for C:\Users\SoporteTI\Documents\JAVA\HU7\CompraEnLinea\target\site\serenity\0204919ac95d4c28b6966a550fe86c2288c93f9ee57385e81d38ed1b136ef228.png
+11:54:00.827 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Send negative for processing for C:\Users\SoporteTI\Documents\JAVA\HU7\CompraEnLinea\target\site\serenity\576c3f78cc1bab166b20fb8177259f30540572a14d35d0256cd63d42e56a19c4.png
+11:54:00.830 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Processing screenshot image in /var/screenshots/screenshot-274301377296648691
+11:54:00.831 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Saving screenshot to C:\Users\SoporteTI\Documents\JAVA\HU7\CompraEnLinea\target\site\serenity\576c3f78cc1bab166b20fb8177259f30540572a14d35d0256cd63d42e56a19c4.png
+11:54:02.409 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Send negative for processing for C:\Users\SoporteTI\Documents\JAVA\HU7\CompraEnLinea\target\site\serenity\05fe9258bbf0a57441f8632898d8c1a7c4b3afa5b19a648abb90d3c004930af8.png
+11:54:02.417 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Processing screenshot image in /var/screenshots/screenshot-5281791154874894028
+11:54:02.417 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Saving screenshot to C:\Users\SoporteTI\Documents\JAVA\HU7\CompraEnLinea\target\site\serenity\05fe9258bbf0a57441f8632898d8c1a7c4b3afa5b19a648abb90d3c004930af8.png
+11:54:04.023 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: el usuario escoge el metodo de pago Master Credit
+----------------------------------------------------------------------------
+]]></system-out>
+  <system-err><![CDATA[ene 05, 2022 11:53:40 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 18097
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+ene 05, 2022 11:53:47 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>

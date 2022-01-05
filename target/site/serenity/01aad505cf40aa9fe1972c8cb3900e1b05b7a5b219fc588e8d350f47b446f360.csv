@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Yo como usuario del portal Demo","el usuario selecciona articulos de tecnologia y realiza el pago en linea","SUCCESS","2022-01-04T19:48:55.297-05:00[America/Bogota]","0.0","20.53"
+"Yo como usuario del portal Demo","el usuario verifica los detalles del envio del producto Tablet","ERROR","2022-01-04T19:49:17.233-05:00[America/Bogota]","0.0","27.73"
+"Yo como usuario del portal Demo","El usuario no puede acceder al boton Pay Now","PENDING","2022-01-05T11:30:30.898-05:00[America/Bogota]","0.0","0.24"
+"Yo como usuario del portal Demo","el usuario escoge el metodo de pago Master Credit","SUCCESS","2022-01-05T11:53:39.843-05:00[America/Bogota]","0.0","22.58"
